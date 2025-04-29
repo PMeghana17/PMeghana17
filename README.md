@@ -44,7 +44,9 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghana-polisetty-137a10215/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghapolisetty3424@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghapolisetty3424@gmail.com?subject=Hello%20Meghana&body=I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
+
+
 
 ---
 
