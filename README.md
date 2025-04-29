@@ -13,7 +13,7 @@
 - 🎓 I'm preparing for **FAANG-level interviews**
 - 📚 Learning **Data Structures**, **Algorithms**, and **System Design**
 - 💻 Practicing coding on **LeetCode**, **HackerRank**, and **GeeksforGeeks**
-- ✍️ Documenting my journey in [my GitHub repos](https://github.com/PMeghana17)
+- ✍️ Documenting my journey in [my GitHub repos](https://github.com/PMeghana17?tab=repositories)
 - 🚀 Aiming to become a full-time **Software Developer**
 
 ---
