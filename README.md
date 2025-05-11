@@ -38,8 +38,8 @@
 
 ### ✨ Featured Repos
 - 📘 [Daily DSA Practice](https://github.com/PMeghana17/dsa-daily)
-- 📓 [System Design Notes](https://github.com/PMeghana17/system-design-notes)
-- 🛠️ [Java Practice Projects](https://github.com/PMeghana17/java-projects)
+- 📓 [System Design Notes](https://github.com/PMeghana17/system-design-notes) ---(later)
+- 🛠️ [Java Practice Projects](https://github.com/PMeghana17/java-projects) ---(later)
 
 ---
 
