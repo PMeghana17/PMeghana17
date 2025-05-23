@@ -8,7 +8,7 @@
 ---
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213888126-5fa0c1b8-b3e5-4b91-abb9-fbf0f6d62ae9.gif" width="250" alt="coding-girl" />
-
+ 
 ### 👩‍💻 About Me
 - 🎓 I'm preparing for **FAANG-level interviews**
 - 📚 Learning **Data Structures**, **Algorithms**, and **System Design**
