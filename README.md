@@ -10,7 +10,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213888126-5fa0c1b8-b3e5-4b91-abb9-fbf0f6d62ae9.gif" width="250" alt="coding-girl" />
  
 ### 👩‍💻 About Me
-- 🎓 I'm preparing for **FAANG-level interviews**
+- 🎓 I'm preparing for technical interviews at top tech companies, focusing on strong fundamentals in DSA and System Design.
 - 📚 Learning **Data Structures**, **Algorithms**, and **System Design**
 - 💻 Practicing coding on **LeetCode**, **HackerRank**, and **GeeksforGeeks**
 - ✍️ Documenting my journey in [my GitHub repos](https://github.com/PMeghana17?tab=repositories)
